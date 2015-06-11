@@ -3,8 +3,11 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "socket.io": "~0.9.16",
+    "async": "^1.0.0",
     "express": "~3.2.6",
-    "jade": "~0.31.2"
+    "jade": "~0.31.2",
+    "q": "^1.4.1",
+    "rethinkdb": "^2.0.0",
+    "socket.io": "~0.9.16"
   }
 }

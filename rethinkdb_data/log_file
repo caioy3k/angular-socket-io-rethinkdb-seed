@@ -1,0 +1,67 @@
+2015-05-25T23:57:12.354005000 0.618190s notice: Recursively removing directory /Development/labRealtime/angular-socket-io-seed/rethinkdb_data/tmp
+2015-05-25T23:57:12.356048000 0.620237s notice: Initializing directory /Development/labRealtime/angular-socket-io-seed/rethinkdb_data
+2015-05-25T23:57:12.356154000 0.620338s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Development/labRealtime/angular-socket-io-seed/rethinkdb_data' did not already exist or is empty.)
+2015-05-25T23:57:12.356176000 0.620359s notice: Running rethinkdb 2.0.1 (CLANG 4.2 (clang-425.0.28))...
+2015-05-25T23:57:12.362271000 0.626457s notice: Running on Darwin 14.3.0 x86_64
+2015-05-25T23:57:12.362359000 0.626544s notice: Loading data from directory /Development/labRealtime/angular-socket-io-seed/rethinkdb_data
+2015-05-25T23:57:12.825835000 1.090019s info: Automatically using cache size of 4838 MB
+2015-05-25T23:57:12.830283000 1.094467s notice: Listening for intracluster connections on port 29015
+2015-05-25T23:57:12.832000000 1.096184s notice: Listening for client driver connections on port 28015
+2015-05-25T23:57:12.832103000 1.096287s notice: Listening for administrative HTTP connections on port 8080
+2015-05-25T23:57:12.832109000 1.096293s notice: Listening on addresses: 127.0.0.1, ::1
+2015-05-25T23:57:12.832112000 1.096296s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-05-25T23:57:12.832115000 1.096299s notice: Server ready, "MacBook_Pro_de_Victor_local_csx" ed85ef54-d56e-47e3-b811-ba33ecd57ded
+2015-05-25T23:57:13.545224000 1.809408s notice: A newer version of the RethinkDB server is available: 2.0.2. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2015-05-26T15:13:54.388288000 19208.019021s notice: Server got SIGINT from pid 3954, uid 501; shutting down...
+2015-05-26T15:13:54.388471000 19208.019200s notice: Shutting down client connections...
+2015-05-26T15:13:54.388611000 19208.019340s notice: All client connections closed.
+2015-05-26T15:13:54.388632000 19208.019361s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-05-26T15:13:54.406279000 19208.037009s notice: Storage engine shut down.
+2015-05-26T15:13:58.939755000 0.579212s notice: Running rethinkdb 2.0.1 (CLANG 4.2 (clang-425.0.28))...
+2015-05-26T15:13:58.944143000 0.583606s notice: Running on Darwin 14.3.0 x86_64
+2015-05-26T15:13:58.944246000 0.583695s notice: Loading data from directory /Development/labRealtime/angular-socket-io-seed/rethinkdb_data
+2015-05-26T15:13:59.070256000 0.709705s info: Automatically using cache size of 2884 MB
+2015-05-26T15:13:59.071106000 0.710556s notice: Listening for intracluster connections on port 29015
+2015-05-26T15:13:59.071945000 0.711394s notice: Listening for client driver connections on port 28015
+2015-05-26T15:13:59.072097000 0.711547s notice: Listening for administrative HTTP connections on port 8080
+2015-05-26T15:13:59.072101000 0.711549s notice: Listening on addresses: 127.0.0.1, ::1
+2015-05-26T15:13:59.072106000 0.711555s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-05-26T15:13:59.072115000 0.711565s notice: Server ready, "MacBook_Pro_de_Victor_local_csx" ed85ef54-d56e-47e3-b811-ba33ecd57ded
+2015-05-26T15:13:59.630374000 1.269824s notice: A newer version of the RethinkDB server is available: 2.0.2. You can read the changelog at <https://github.com/rethinkdb/rethinkdb/releases>.
+2015-05-27T21:41:33.992383000 52256.320640s notice: Server got SIGINT from pid 3954, uid 501; shutting down...
+2015-05-27T21:41:33.995460000 52256.323712s notice: Shutting down client connections...
+2015-05-27T21:41:34.000371000 52256.328623s notice: All client connections closed.
+2015-05-27T21:41:34.005254000 52256.333506s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2015-05-27T21:41:34.041958000 52256.370210s notice: Storage engine shut down.
+2015-05-27T21:46:24.525557000 0.605358s notice: Running rethinkdb 2.0.2 (CLANG 4.2 (clang-425.0.28))...
+2015-05-27T21:46:24.549523000 0.629320s notice: Running on Darwin 14.3.0 x86_64
+2015-05-27T21:46:24.549618000 0.629414s notice: Loading data from directory /Development/labRealtime/angular-socket-io-seed/rethinkdb_data
+2015-05-27T21:46:24.701088000 0.780884s info: Automatically using cache size of 1523 MB
+2015-05-27T21:46:24.703312000 0.783108s notice: Listening for intracluster connections on port 29015
+2015-05-27T21:46:24.705094000 0.784890s notice: Listening for client driver connections on port 28015
+2015-05-27T21:46:24.705379000 0.785175s notice: Listening for administrative HTTP connections on port 8080
+2015-05-27T21:46:24.705382000 0.785178s notice: Listening on addresses: 127.0.0.1, ::1
+2015-05-27T21:46:24.705390000 0.785185s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-05-27T21:46:24.705392000 0.785187s notice: Server ready, "MacBook_Pro_de_Victor_local_csx" ed85ef54-d56e-47e3-b811-ba33ecd57ded
+2015-06-01T19:28:17.926499000 0.117584s notice: Running rethinkdb 2.0.2 (CLANG 4.2 (clang-425.0.28))...
+2015-06-01T19:28:17.956992000 0.148073s notice: Running on Darwin 14.3.0 x86_64
+2015-06-01T19:28:17.957073000 0.148153s notice: Loading data from directory /Development/labRealtime/angular-socket-io-seed/rethinkdb_data
+2015-06-01T19:28:18.144848000 0.335928s info: Automatically using cache size of 100 MB
+2015-06-01T19:28:18.144861000 0.335940s warn: Cache size does not leave much memory for server and query overhead (available memory: 931 MB).
+2015-06-01T19:28:18.144866000 0.335945s warn: Cache size is very low and may impact performance.
+2015-06-01T19:28:18.147329000 0.338408s notice: Listening for intracluster connections on port 29015
+2015-06-01T19:28:18.149367000 0.340449s notice: Listening for client driver connections on port 28015
+2015-06-01T19:28:18.149550000 0.340629s notice: Listening for administrative HTTP connections on port 8080
+2015-06-01T19:28:18.149552000 0.340631s notice: Listening on addresses: 127.0.0.1, ::1
+2015-06-01T19:28:18.149559000 0.340638s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-06-01T19:28:18.149560000 0.340639s notice: Server ready, "MacBook_Pro_de_Victor_local_csx" ed85ef54-d56e-47e3-b811-ba33ecd57ded
+2015-06-11T13:14:23.303727000 0.733826s notice: Running rethinkdb 2.0.2 (CLANG 4.2 (clang-425.0.28))...
+2015-06-11T13:14:23.323831000 0.753928s notice: Running on Darwin 14.3.0 x86_64
+2015-06-11T13:14:23.323911000 0.754007s notice: Loading data from directory /Development/labRealtime/angular-socket-io-seed/rethinkdb_data
+2015-06-11T13:14:23.471277000 0.901401s info: Automatically using cache size of 4051 MB
+2015-06-11T13:14:23.473320000 0.903443s notice: Listening for intracluster connections on port 29015
+2015-06-11T13:14:23.475223000 0.905347s notice: Listening for client driver connections on port 28015
+2015-06-11T13:14:23.475436000 0.905560s notice: Listening for administrative HTTP connections on port 8080
+2015-06-11T13:14:23.475448000 0.905572s notice: Listening on addresses: 127.0.0.1, ::1
+2015-06-11T13:14:23.475454000 0.905577s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2015-06-11T13:14:23.475460000 0.905585s notice: Server ready, "MacBook_Pro_de_Victor_local_csx" ed85ef54-d56e-47e3-b811-ba33ecd57ded
